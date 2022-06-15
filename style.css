@@ -165,6 +165,10 @@ footer{
 .logo1{
     margin-top: 15px;
 }
+.contact_list img{
+    height: 15px;
+}
+
 .pages{
     display:grid;
     grid-template-columns: 1fr 1fr;
