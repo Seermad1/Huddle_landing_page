@@ -313,12 +313,17 @@ footer{
 }
 @media screen and (max-width:400px){
     .logo{
-        width: 100px;
+        width: 200px;
     }
     .navbar{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 50px 0;
+        padding: 25px 0;
+    }
+     .nav_btn{
+        padding: 10px 20px;
+        border-radius: 30px;
+        font-size: 10px;
     }
 }
