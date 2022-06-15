@@ -315,6 +315,12 @@ footer{
     .logo{
         width: 200px;
     }
+     h1{
+        font-size: 23px;
+    }
+    .hero_text p{
+        font-size: 14px;
+    }
     .navbar{
         display: flex;
         justify-content: space-between;
@@ -325,5 +331,11 @@ footer{
         padding: 10px 20px;
         border-radius: 30px;
         font-size: 10px;
+    }
+    .card_text h2{
+        font-size: 19px;
+    }
+    .card_text p{
+        font-size: 13px;
     }
 }
